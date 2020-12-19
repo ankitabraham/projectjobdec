@@ -1,0 +1,8 @@
+com\orangee\uitest\pageobject\loginpage.class
+com\orangee\uitest\listners\Listners.class
+com\orangee\uitest\testBase\TestBase.class
+com\orangee\uitest\ankit\excel_reader.class
+com\orangee\uitest\extendreports\ExtentTestManager.class
+com\orangee\uitest\pageobject\loginpage1.class
+com\orangee\uitest\screenshot\CaptureScreenshot.class
+com\orangee\uitest\extendreports\ExtentManager.class

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Screen Shot Taken]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2020-12-18T23:21:20Z" name="Suite" finished-at="2020-12-18T23:22:57Z" duration-ms="97733">
+    <groups>
+    </groups>
+    <test started-at="2020-12-18T23:21:20Z" name="Test" finished-at="2020-12-18T23:22:57Z" duration-ms="97733">
+      <class name="ankit.test.TC01_invalid_login">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ankit.test.TC01_invalid_login@44c73c26]" started-at="2020-12-18T18:21:20Z" name="setUp" finished-at="2020-12-18T18:22:01Z" duration-ms="41001" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC01_InvalidLogin_Test()[pri:0, instance:ankit.test.TC01_invalid_login@44c73c26]" started-at="2020-12-18T18:22:01Z" name="TC01_InvalidLogin_Test" finished-at="2020-12-18T18:22:22Z" duration-ms="21771" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Screen Shot Taken]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- TC01_InvalidLogin_Test -->
+        <test-method is-config="true" signature="closee()[pri:0, instance:ankit.test.TC01_invalid_login@44c73c26]" started-at="2020-12-18T18:22:22Z" name="closee" finished-at="2020-12-18T18:22:23Z" duration-ms="358" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closee -->
+      </class> <!-- ankit.test.TC01_invalid_login -->
+      <class name="ankit.test.TC01_invalid_login2">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:ankit.test.TC01_invalid_login2@6853425f]" started-at="2020-12-18T18:22:23Z" name="setUp" finished-at="2020-12-18T18:22:38Z" duration-ms="15460" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="TC02_InvalidLogin_Test()[pri:0, instance:ankit.test.TC01_invalid_login2@6853425f]" started-at="2020-12-18T18:22:38Z" name="TC02_InvalidLogin_Test" finished-at="2020-12-18T18:22:55Z" duration-ms="16687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC02_InvalidLogin_Test -->
+        <test-method is-config="true" signature="closee()[pri:0, instance:ankit.test.TC01_invalid_login2@6853425f]" started-at="2020-12-18T18:22:55Z" name="closee" finished-at="2020-12-18T18:22:57Z" duration-ms="2313" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closee -->
+      </class> <!-- ankit.test.TC01_invalid_login2 -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>

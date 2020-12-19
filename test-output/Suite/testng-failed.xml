@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite parallel="none" name="Failed suite [Suite]">
+  <test parallel="none" name="Test(failed)">
+    <classes>
+      <class name="ankit.test.TC01_invalid_login2">
+        <methods>
+          <include name="closee"/>
+          <include name="setUp"/>
+          <include name="TC02_InvalidLogin_Test"/>
+        </methods>
+      </class> <!-- ankit.test.TC01_invalid_login2 -->
+      <class name="ankit.test.TC01_invalid_login">
+        <methods>
+          <include name="closee"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- ankit.test.TC01_invalid_login -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->
